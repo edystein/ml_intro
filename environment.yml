@@ -1,0 +1,23 @@
+name: ml_intro
+dependencies:
+  - python=3.6
+  - pandas=0.21
+  - jinja2=2.9
+  - scikit-learn=0.19
+  - matplotlib=2.0
+  - joblib=0.11
+  - munch=2.1
+  - boto3=1.4
+  - dill=0.2
+  - qgrid=0.3
+  - flask=0.12
+  - factory_boy=2.9
+  - pyyaml=3.12
+  - redis-py=2.10
+  - pip:
+    - python-dotenv==0.6.5
+    - jupyter==1.0.0
+    - notebook==5.2.2
+    - patsy==0.4.1
+    - scikit-learn==0.19.1
+    - scipy==1.0.0
