@@ -3,7 +3,7 @@ ML intro introduce a set of basic machine learning (ml) sessions. Staff is based
 
 # Usage
 ## Online
-You can use the [binder](https://hub.mybinder.org/user/edystein-ml_intro-p98893k4/tree/01_Titanic_feature_eng)
+You can use the https://mybinder.org/v2/gh/edystein/ml_intro/master
 
 ## Install
 #### First time run
